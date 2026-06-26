@@ -1,5 +1,4 @@
 # 🌊 BlueWave Agency
-
 A modern and responsive multi-section landing page built using **HTML5** and **CSS3**.
 
 ## 📌 Features
